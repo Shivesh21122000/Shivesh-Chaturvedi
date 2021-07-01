@@ -2,6 +2,8 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shivesh Chaturvedi
 
+<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Shivesh+Chaturvedi;Full+stack+Web+dev;Data+Science+enthusiast" />
+
 - 🔭 I’m currently working on E-commerce Mobile Shopping Website
 - 🌱 I’m currently learning Node.js, Apache Spark and Power BI
 - 📫 How to reach me: Linkedin - [@mylinkedin](https://www.linkedin.com/in/shivesh-chaturvedi-523109171/)
