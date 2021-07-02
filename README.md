@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Shivesh21122000/Shivesh21122000/blob/main/Background%20Github%20(1).gif" alt="Synthwave" height="350" width="880"></p>
+<p align="center"><img src="https://github.com/Shivesh21122000/Shivesh21122000/blob/main/Background%20Github%20(1).gif"></p>
 
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shivesh Chaturvedi
 
